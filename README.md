@@ -3,7 +3,10 @@
 A high-performance, responsive e-commerce application built with React and Tailwind CSS. This project demonstrates modern frontend practices including state management, persistent local storage, and advanced UI/UX patterns like skeleton loading and dark mode.
 
 
-
+![App Screenshot](assets/ss1.png)
+![App Screenshot](assets/ss2.png)
+![App Screenshot](assets/ss3.png)
+![App Screenshot](assets/ss4.png)
 
  Live Demo
 
@@ -77,9 +80,11 @@ Performance: useMemo is heavily utilized for filtering and sorting logic to prev
 
 Screenshots:
 
-Light Mode:
+Light Mode:![App Screenshot](assets/ss3.png)
+![App Screenshot](assets/ss4.png)
 
-Dark Mode:
+Dark Mode:![App Screenshot](assets/ss1.png)
+![App Screenshot](assets/ss2.png)
 
 
 
