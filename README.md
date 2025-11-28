@@ -27,6 +27,7 @@ Responsive Hero Section: A visual-first entry point with smooth scroll interacti
  Advanced Cart Logic:
 
 Promo Code System: Functional discount logic (Try code: LUMINA10).
+![App Screenshot](assets/ss5.png)
 
 Free Shipping Meter: Gamified progress bar incentivizing users to increase cart value.
 
@@ -39,6 +40,8 @@ Quick View Modal: Allows users to view product details and select variants (Colo
 Toast Notifications: Custom-built notification system for user feedback (Add to cart, Wishlist updates).
 
 Multi-Step Checkout: A realistic checkout form with validation and simulated payment processing states.
+![App Screenshot](assets/ss6.png)
+![App Screenshot](assets/ss7.png)
 
 Tech Stack:
 
